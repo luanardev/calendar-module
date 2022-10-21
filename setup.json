@@ -1,0 +1,14 @@
+{
+    "name": "Calendar",
+
+    "permissions": [
+        "create_academic_calendar",
+        "view_academic_calendar",
+        "update_academic_calendar",
+        "delete_academic_calendar",
+        "create_financial_calendar",
+        "view_financial_calendar",
+        "update_financial_calendar",
+        "delete_financial_calendar"
+    ]
+}

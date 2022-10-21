@@ -1,0 +1,13 @@
+{
+    "name": "Calendar",
+    "alias": "calendar",
+    "description": "",
+    "keywords": [],
+    "priority": 2,
+    "providers": [
+        "Luanardev\\Lumis\\Calendar\\Providers\\CalendarServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
